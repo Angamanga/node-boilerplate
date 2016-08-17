@@ -1,0 +1,26 @@
+{
+  "name": "irrigationpi",
+  "version": "1.0.0",
+  "description": "A node-boilerplate",
+  "main": "server/app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Angamanga/node-boilerplate"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Angamanga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Angamanga/node-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Angamanga/node-boilerplate#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "fs": "0.0.2"
+  }
+}
